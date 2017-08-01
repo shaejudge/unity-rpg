@@ -6,14 +6,15 @@ Made as a capstone project at Oregon State University with Albert Chang and Geof
 
 Music featured by Alec Troemel (https://soundcloud.com/alectroemel).
 
-Features:\n
-A main menu system to start new and load games (only works on downloadable client, not on WebGL builds).\n
-A very basic chatbox system to provide dialogue.\n
-Automated animations and movements for NPCs.\n
-Quality turn-based, randomized, battle system.\n
-An in-game menu system to save game, view inventory, use skills (such as healing).\n
+Features:
 
-Controls:\n
-Movement - WASD\n
-Continue dialogue - Space\n
-Menus and Battles - Mouse\n
+A main menu system to start new and load games (only works on downloadable client, not on WebGL builds). A very basic chatbox system to provide dialogue. Automated animations and movements for NPCs. Quality turn-based, randomized, battle system. An in-game menu system to save game, view inventory, use skills (such as healing).
+
+
+Controls:
+
+Movement - WASD
+
+Continue dialogue - Space
+
+Menus and Battles - Mouse
